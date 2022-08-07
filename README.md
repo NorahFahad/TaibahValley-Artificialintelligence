@@ -3,7 +3,7 @@ This is repository for my summer training in Artificial Intelligence lab at Taib
 
 Task1 : presentation about data analysis
 
-Task2 : solve 10 hakker rank problems in python 5-easy 4-medium 1-hard
+Task2 : solve 10 hacker rank problems in python 5-easy 4-medium 1-hard
 
 Task3&4 : is clean and anlysis Ford gobike dataset
 
