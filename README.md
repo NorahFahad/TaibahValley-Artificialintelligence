@@ -10,3 +10,5 @@ Task3&4 : is clean and anlysis Ford gobike dataset
 Task5 : clean and use ML model in Hotel booking demand dataset 
 
 Task6 : clean and use ML model in Titanic dataset 
+
+Final project : credit card churn prediction(clean + analysis + preprossing + bulding ML models + Deploy model with gradio)
