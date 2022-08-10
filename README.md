@@ -12,3 +12,5 @@ Task5 : clean and use ML model in Hotel booking demand dataset
 Task6 : clean and use ML model in Titanic dataset 
 
 Final project : credit card churn prediction(clean + analysis + preprossing + bulding ML models + Deploy model with gradio)
+
+extra work: IMDB_Movies_Norah , Mushroom
