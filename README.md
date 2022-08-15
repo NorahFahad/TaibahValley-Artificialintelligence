@@ -1,5 +1,5 @@
 # TaibahValley-Artificialintelligence
-This is repository for my summer training in Artificial Intelligence lab at Taibah valley
+This is repository for my summer training at Taibah valley Artificial Intelligence lab
 
 Task1 : presentation about data analysis
 
